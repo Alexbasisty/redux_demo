@@ -3,7 +3,7 @@ const initialState = {
     b: 0,
     result: 0,
 };
-
+//smth
 reducer = (state = initialState, action) => {
     switch (action.type) {
         case "NewAValue":
